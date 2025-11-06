@@ -63,4 +63,4 @@ for chat in reversed(st.session_state.history):
     st.markdown(f"🤖 Kelly:\n\n{chat['kelly']}")
     st.markdown("---")
 
-st.markdown("✨ Developed with Gemini and Streamlit") what is this code doing 
+st.markdown("✨ Developed with Gemini and Streamlit")  
